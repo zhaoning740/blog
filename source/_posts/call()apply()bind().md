@@ -1,7 +1,7 @@
 ---
 title: call apply bind 区别
 date: 2018-03-22 16:28:46
-tags:call apply bind
+tags: call apply bind
 ---
 
 ### 1.call()源码解析 
