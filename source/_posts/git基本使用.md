@@ -43,6 +43,22 @@ git commit -m '提交说明'
 git push
 ```
 
+
+if you git push rejected ,do this
+```bash
+E:\blog\blog (master -> origin)
+λ git push
+To https://github.com/zhaoning740/blog.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/zhaoning740/blog.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+```
+
+
+
 ## 其他
 
 查看git状态
@@ -68,6 +84,10 @@ git pull
 
 ```bash
 git merge 分支名
+```
+
+```
+
 ```
 
 
