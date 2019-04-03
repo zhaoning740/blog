@@ -12,6 +12,12 @@ tags: git
 git clone https://github.com/baylin87/hexo-theme-wikipile.git 
 ```
 
+if you want to change file name,you can do this
+
+~~~bash
+git clone https://github.com/baylin87/hexo-theme-wikipile.git [fileName]
+~~~
+
 第2步：改代码
 
 第3步：提交代码
