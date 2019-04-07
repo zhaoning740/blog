@@ -4,7 +4,7 @@ date: 2018-03-19 12:38:07
 tags: git
 ---
 
-![git](E:\blog\shiyue\source\_posts\img\git.jpg)
+![git](/img/git.jpg)
 
 第1步：项目下载
 
@@ -14,9 +14,9 @@ git clone https://github.com/baylin87/hexo-theme-wikipile.git
 
 if you want to change file name,you can do this
 
-~~~bash
+```bash
 git clone https://github.com/baylin87/hexo-theme-wikipile.git [fileName]
-~~~
+```
 
 第2步：改代码
 
@@ -45,6 +45,7 @@ git push
 
 
 if you git push rejected ,do this
+
 ```bash
 E:\blog\blog (master -> origin)
 λ git push
@@ -86,9 +87,6 @@ git pull
 git merge 分支名
 ```
 
-```
-
-```
 
 
 
